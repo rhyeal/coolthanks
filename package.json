@@ -1,0 +1,11 @@
+{
+  "name": "coolthanks",
+  "version": "1.0.4",
+  "description": "Say cool, thanks to a URL and just walk away all slow like.",
+  "main": "cool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Link",
+  "license": "MIT"
+}
